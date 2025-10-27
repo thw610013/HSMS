@@ -1,5 +1,7 @@
 # 🎓 学生信息管理系统
 
+[搬砖非原创，请勿用于商业目的]
+
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-6DB33F?logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/Redis-6.0-DC382D?logo=redis&logoColor=white)](https://redis.io/)
